@@ -1,0 +1,73 @@
+@media screen and (min-width: 994px) {
+  .form-control {
+    width: 350px;
+  }
+}
+@media screen and (max-width: 994px) {
+  .navbar-nav {
+    text-align: center;
+  }
+}
+/* Style Metode */
+.img-metode {
+  width: 50px;
+  border-radius: 50%;
+}
+.nav-link:hover {
+  color: #ffae4a;
+}
+.row-container {
+  background-color: #cf6a87;
+  margin: 0px;
+}
+.btn-keranjang {
+  background-color: #cf6a87;
+  color: white;
+  width: 50px;
+}
+.btn-beli {
+  background-color: #cf6a87;
+  color: white;
+  width: 60px;
+}
+.card-img-top {
+  max-height: 150px;
+}
+.img-metode:hover {
+  border: 1px solid #cf6a87;
+}
+
+.card:hover {
+  border: 1px solid #cf6a87;
+}
+.btn-keranjang:hover {
+  background-color: #ffae4a;
+}
+
+.garis-produk {
+  border-bottom: 2px solid black;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+.row-produk {
+  background-color: white;
+  margin: 0;
+  padding: 5px;
+  padding-top: 16px;
+}
+.img-keranjang {
+  width: 50px;
+}
+.login {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
